@@ -1153,16 +1153,611 @@
   }
  },
  {
-  "id": "forager",
-  "title": "Forager",
-  "category": "adventure",
-  "tags": ["survival"],
-  "url": "games/forager/index.html",
+  "id": "eagleride",
+  "title": "Eagle Ride",
+  "category": "action",
+  "tags": [
+   "vol",
+   "infini"
+  ],
+  "url": "games/eagleride/index.html",
+  "popular": false,
+  "new": false,
+  "thumb": {
+   "emoji": "🦅",
+   "bg": "linear-gradient(135deg,#60a5fa,#2563eb)"
+  }
+ },
+ {
+  "id": "egg",
+  "title": "Egg",
+  "category": "clicker",
+  "tags": [
+   "casual",
+   "idle"
+  ],
+  "url": "games/egg/index.html",
+  "popular": false,
+  "new": false,
+  "thumb": {
+   "emoji": "🥚",
+   "bg": "linear-gradient(135deg,#fef08a,#ca8a04)"
+  }
+ },
+ {
+  "id": "eggycar",
+  "title": "Eggy Car",
+  "category": "driving",
+  "tags": [
+   "physique",
+   "casual"
+  ],
+  "url": "games/eggycar/index.html",
   "popular": true,
   "new": false,
   "thumb": {
-    "emoji": "🌳",
-    "bg": "linear-gradient(135deg,#65a30d,#166534)"
+   "emoji": "🥚🚗",
+   "bg": "linear-gradient(135deg,#fde047,#eab308)"
+  }
+ },
+ {
+  "id": "escaperoad",
+  "title": "Escape Road",
+  "category": "driving",
+  "tags": [
+   "evasion",
+   "action"
+  ],
+  "url": "games/escaperoad/index.html",
+  "popular": true,
+  "new": false,
+  "thumb": {
+   "emoji": "🚔",
+   "bg": "linear-gradient(135deg,#ef4444,#991b1b)"
+  }
+ },
+ {
+  "id": "fallguys",
+  "title": "Fall Guys",
+  "category": "action",
+  "tags": [
+   "multijoueur",
+   "course"
+  ],
+  "url": "games/fallguys/index.html",
+  "popular": true,
+  "new": false,
+  "thumb": {
+   "emoji": "👑",
+   "bg": "linear-gradient(135deg,#ec4899,#a21caf)"
+  }
+ },
+ {
+  "id": "feedthevoid",
+  "title": "Feed the Void",
+  "category": "arcade",
+  "tags": [
+   "espace",
+   "casual"
+  ],
+  "url": "games/feedthevoid/index.html",
+  "popular": false,
+  "new": false,
+  "thumb": {
+   "emoji": "🕳️",
+   "bg": "linear-gradient(135deg,#4b5563,#111827)"
+  }
+ },
+ {
+  "id": "fireboyandwatergirl2",
+  "title": "Fireboy and Watergirl 2",
+  "category": "puzzle",
+  "tags": [
+   "coop",
+   "plateforme"
+  ],
+  "url": "games/fireboyandwatergirl2/index.html",
+  "popular": true,
+  "new": false,
+  "thumb": {
+   "emoji": "🔥💧",
+   "bg": "linear-gradient(135deg,#ef4444,#3b82f6)"
+  }
+ },
+ {
+  "id": "fireboyandwatergirl3",
+  "title": "Fireboy and Watergirl 3",
+  "category": "puzzle",
+  "tags": [
+   "coop",
+   "plateforme"
+  ],
+  "url": "games/fireboyandwatergirl3/index.html",
+  "popular": true,
+  "new": false,
+  "thumb": {
+   "emoji": "🔥💧",
+   "bg": "linear-gradient(135deg,#f97316,#06b6d4)"
+  }
+ },
+ {
+  "id": "fisheatgettingbig",
+  "title": "Fish Eat Getting Big",
+  "category": "arcade",
+  "tags": [
+   "multijoueur",
+   "ocean"
+  ],
+  "url": "games/fisheatgettingbig/index.html",
+  "popular": false,
+  "new": false,
+  "thumb": {
+   "emoji": "🐟",
+   "bg": "linear-gradient(135deg,#38bdf8,#0369a1)"
+  }
+ },
+ {
+  "id": "fisquarium",
+  "title": "Fisquarium",
+  "category": "casual",
+  "tags": [
+   "aquarium",
+   "idle"
+  ],
+  "url": "games/fisquarium/index.html",
+  "popular": false,
+  "new": false,
+  "thumb": {
+   "emoji": "🐠",
+   "bg": "linear-gradient(135deg,#0ea5e9,#0f766e)"
+  }
+ },
+ {
+  "id": "fivenightsatfrickbears3",
+  "title": "Five Nights at Frickbear's 3",
+  "category": "horror",
+  "tags": [
+   "fnaf",
+   "survie"
+  ],
+  "url": "games/fivenightsatfrickbears3/index.html",
+  "popular": false,
+  "new": false,
+  "thumb": {
+   "emoji": "🐻",
+   "bg": "linear-gradient(135deg,#78350f,#451a03)"
+  }
+ },
+ {
+  "id": "fluidism",
+  "title": "Fluidism",
+  "category": "puzzle",
+  "tags": [
+   "physique",
+   "casual"
+  ],
+  "url": "games/fluidism/index.html",
+  "popular": false,
+  "new": false,
+  "thumb": {
+   "emoji": "🌊",
+   "bg": "linear-gradient(135deg,#22d3ee,#0891b2)"
+  }
+ },
+ {
+  "id": "fnac1",
+  "title": "Five Nights at Candy's 1",
+  "category": "horror",
+  "tags": [
+   "fnaf",
+   "survie"
+  ],
+  "url": "games/fnac1/index.html",
+  "popular": true,
+  "new": false,
+  "thumb": {
+   "emoji": "🐱",
+   "bg": "linear-gradient(135deg,#475569,#1e293b)"
+  }
+ },
+ {
+  "id": "FNAF",
+  "title": "Five Nights at Freddy's",
+  "category": "horror",
+  "tags": [
+   "survie",
+   "classique"
+  ],
+  "url": "games/FNAF/index.html",
+  "popular": true,
+  "new": false,
+  "thumb": {
+   "emoji": "🐻",
+   "bg": "linear-gradient(135deg,#b45309,#78350f)"
+  }
+ },
+ {
+  "id": "FNAF2",
+  "title": "Five Nights at Freddy's 2",
+  "category": "horror",
+  "tags": [
+   "survie",
+   "classique"
+  ],
+  "url": "games/FNAF2/index.html",
+  "popular": true,
+  "new": false,
+  "thumb": {
+   "emoji": "🐰",
+   "bg": "linear-gradient(135deg,#d97706,#92400e)"
+  }
+ },
+ {
+  "id": "FNAF3",
+  "title": "Five Nights at Freddy's 3",
+  "category": "horror",
+  "tags": [
+   "survie",
+   "classique"
+  ],
+  "url": "games/FNAF3/index.html",
+  "popular": true,
+  "new": false,
+  "thumb": {
+   "emoji": "🦊",
+   "bg": "linear-gradient(135deg,#854d0e,#451a03)"
+  }
+ },
+ {
+  "id": "FNAF4",
+  "title": "Five Nights at Freddy's 4",
+  "category": "horror",
+  "tags": [
+   "survie",
+   "classique"
+  ],
+  "url": "games/FNAF4/index.html",
+  "popular": true,
+  "new": false,
+  "thumb": {
+   "emoji": "🚪",
+   "bg": "linear-gradient(135deg,#1f2937,#111827)"
+  }
+ },
+ {
+  "id": "fnaf4halloween",
+  "title": "Five Nights at Freddy's 4: Halloween Edition",
+  "category": "horror",
+  "tags": [
+   "survie",
+   "halloween"
+  ],
+  "url": "games/fnaf4halloween/index.html",
+  "popular": false,
+  "new": false,
+  "thumb": {
+   "emoji": "🎃",
+   "bg": "linear-gradient(135deg,#ea580c,#7c2d12)"
+  }
+ },
+ {
+  "id": "fnafps",
+  "title": "Freddy Fazbear's Pizzeria Simulator",
+  "category": "horror",
+  "tags": [
+   "gestion",
+   "survie"
+  ],
+  "url": "games/fnafps/index.html",
+  "popular": true,
+  "new": false,
+  "thumb": {
+   "emoji": "🍕",
+   "bg": "linear-gradient(135deg,#ca8a04,#78350f)"
+  }
+ },
+ {
+  "id": "footballbros",
+  "title": "Football Bros",
+  "category": "sports",
+  "tags": [
+   "football",
+   "multijoueur"
+  ],
+  "url": "games/footballbros/index.html",
+  "popular": true,
+  "new": false,
+  "thumb": {
+   "emoji": "🏈",
+   "bg": "linear-gradient(135deg,#15803d,#14532d)"
+  }
+ },
+ {
+  "id": "fortzone",
+  "title": "Fortzone",
+  "category": "action",
+  "tags": [
+   "tir",
+   "battle-royale"
+  ],
+  "url": "games/fortzone/index.html",
+  "popular": false,
+  "new": false,
+  "thumb": {
+   "emoji": "💥",
+   "bg": "linear-gradient(135deg,#4f46e5,#312e81)"
+  }
+ },
+ {
+  "id": "fruitninja",
+  "title": "Fruit Ninja",
+  "category": "arcade",
+  "tags": [
+   "classique",
+   "casual"
+  ],
+  "url": "games/fruitninja/index.html",
+  "popular": true,
+  "new": false,
+  "thumb": {
+   "emoji": "🍉",
+   "bg": "linear-gradient(135deg,#22c55e,#15803d)"
+  }
+ },
+ {
+  "id": "funnymadracing",
+  "title": "Funny Mad Racing",
+  "category": "driving",
+  "tags": [
+   "physique",
+   "2-joueurs"
+  ],
+  "url": "games/funnymadracing/index.html",
+  "popular": false,
+  "new": false,
+  "thumb": {
+   "emoji": "🤪🚗",
+   "bg": "linear-gradient(135deg,#eab308,#b45309)"
+  }
+ },
+ {
+  "id": "gdbreeze",
+  "title": "Geometry Dash Breeze",
+  "category": "action",
+  "tags": [
+   "rythme",
+   "plateforme"
+  ],
+  "url": "games/gdbreeze/index.html",
+  "popular": false,
+  "new": false,
+  "thumb": {
+   "emoji": "🟩",
+   "bg": "linear-gradient(135deg,#06b6d4,#0369a1)"
+  }
+ },
+ {
+  "id": "gdlite",
+  "title": "Geometry Dash Lite",
+  "category": "action",
+  "tags": [
+   "rythme",
+   "plateforme"
+  ],
+  "url": "games/gdlite/index.html",
+  "popular": true,
+  "new": false,
+  "thumb": {
+   "emoji": "🟩",
+   "bg": "linear-gradient(135deg,#22c55e,#16a34a)"
+  }
+ },
+ {
+  "id": "gdsubzero",
+  "title": "Geometry Dash SubZero",
+  "category": "action",
+  "tags": [
+   "rythme",
+   "plateforme"
+  ],
+  "url": "games/gdsubzero/index.html",
+  "popular": true,
+  "new": false,
+  "thumb": {
+   "emoji": "🥶🟩",
+   "bg": "linear-gradient(135deg,#38bdf8,#1d4ed8)"
+  }
+ },
+ {
+  "id": "getawayshootoutv2",
+  "title": "Getaway Shootout v2",
+  "category": "action",
+  "tags": [
+   "physique",
+   "2-joueurs"
+  ],
+  "url": "games/getawayshootoutv2/index.html",
+  "popular": true,
+  "new": false,
+  "thumb": {
+   "emoji": "🏃‍♂️🔫",
+   "bg": "linear-gradient(135deg,#dc2626,#7f1d1d)"
+  }
+ },
+ {
+  "id": "gettingoverit",
+  "title": "Getting Over It",
+  "category": "action",
+  "tags": [
+   "physique",
+   "rage"
+  ],
+  "url": "games/gettingoverit/index.html",
+  "popular": true,
+  "new": false,
+  "thumb": {
+   "emoji": "🔨🏺",
+   "bg": "linear-gradient(135deg,#4b5563,#1f2937)"
+  }
+ },
+ {
+  "id": "googledino",
+  "title": "Google Dino Game",
+  "category": "arcade",
+  "tags": [
+   "infini",
+   "classique"
+  ],
+  "url": "games/googledino/index.html",
+  "popular": true,
+  "new": false,
+  "thumb": {
+   "emoji": "🦖",
+   "bg": "linear-gradient(135deg,#9ca3af,#4b5563)"
+  }
+ },
+ {
+  "id": "gorillatag",
+  "title": "Gorilla Tag",
+  "category": "action",
+  "tags": [
+   "multijoueur",
+   "parkour"
+  ],
+  "url": "games/gorillatag/index.html",
+  "popular": true,
+  "new": false,
+  "thumb": {
+   "emoji": "🦍",
+   "bg": "linear-gradient(135deg,#7c2d12,#431407)"
+  }
+ },
+ {
+  "id": "granny3",
+  "title": "Granny 3",
+  "category": "horror",
+  "tags": [
+   "evasion",
+   "survie"
+  ],
+  "url": "games/granny3/index.html",
+  "popular": true,
+  "new": false,
+  "thumb": {
+   "emoji": "👵🏚️",
+   "bg": "linear-gradient(135deg,#2e1065,#1e1b4b)"
+  }
+ },
+ {
+  "id": "granny22",
+  "title": "Granny: Chapter Two",
+  "category": "horror",
+  "tags": [
+   "evasion",
+   "survie"
+  ],
+  "url": "games/granny22/index.html",
+  "popular": true,
+  "new": false,
+  "thumb": {
+   "emoji": "👵👴",
+   "bg": "linear-gradient(135deg,#3f3f46,#18181b)"
+  }
+ },
+ {
+  "id": "grannyy",
+  "title": "Granny",
+  "category": "horror",
+  "tags": [
+   "evasion",
+   "survie"
+  ],
+  "url": "games/grannyy/index.html",
+  "popular": true,
+  "new": false,
+  "thumb": {
+   "emoji": "👵",
+   "bg": "linear-gradient(135deg,#451a03,#1c1917)"
+  }
+ },
+ {
+  "id": "gravity",
+  "title": "Gravity",
+  "category": "puzzle",
+  "tags": [
+   "physique",
+   "espace"
+  ],
+  "url": "games/gravity/index.html",
+  "popular": false,
+  "new": false,
+  "thumb": {
+   "emoji": "🌌",
+   "bg": "linear-gradient(135deg,#6366f1,#312e81)"
+  }
+ },
+ {
+  "id": "growdenio",
+  "title": "Growdefense.io",
+  "category": "action",
+  "tags": [
+   "defense",
+   "io"
+  ],
+  "url": "games/growdenio/index.html",
+  "popular": false,
+  "new": false,
+  "thumb": {
+   "emoji": "🏰",
+   "bg": "linear-gradient(135deg,#059669,#064e3b)"
+  }
+ },
+ {
+  "id": "gta3",
+  "title": "Grand Theft Auto III",
+  "category": "action",
+  "tags": [
+   "monde-ouvert",
+   "conduite"
+  ],
+  "url": "games/gta3/index.html",
+  "popular": true,
+  "new": false,
+  "thumb": {
+   "emoji": "🏙️🚗",
+   "bg": "linear-gradient(135deg,#1e3a8a,#0f172a)"
+  }
+ },
+ {
+  "id": "helixjump",
+  "title": "Helix Jump",
+  "category": "arcade",
+  "tags": [
+   "casual",
+   "infini"
+  ],
+  "url": "games/helixjump/index.html",
+  "popular": true,
+  "new": false,
+  "thumb": {
+   "emoji": "🥎💈",
+   "bg": "linear-gradient(135deg,#f43f5e,#be123c)"
+  }
+ },
+ {
+  "id": "holeio",
+  "title": "Hole.io",
+  "category": "arcade",
+  "tags": [
+   "io",
+   "multijoueur"
+  ],
+  "url": "games/holeio/index.html",
+  "popular": true,
+  "new": false,
+  "thumb": {
+   "emoji": "🕳️🏙️",
+   "bg": "linear-gradient(135deg,#a855f7,#6b21a8)"
   }
  }
 ]
