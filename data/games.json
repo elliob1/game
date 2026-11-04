@@ -2303,5 +2303,53 @@
    "emoji": "📝",
    "bg": "linear-gradient(135deg,#22c55e,#6b7280)"
   }
+ },
+ {
+  "id": "gta",
+  "title": "GTA",
+  "category": "action",
+  "tags": [
+   "open-world",
+   "driving"
+  ],
+  "url": "games/gta/index.html",
+  "popular": true,
+  "new": false,
+  "thumb": {
+   "emoji": "🚗",
+   "bg": "linear-gradient(135deg,#ef4444,#1e3a8a)"
+  }
+ },
+ {
+  "id": "gta22",
+  "title": "GTA 2",
+  "category": "action",
+  "tags": [
+   "open-world",
+   "retro"
+  ],
+  "url": "games/gta22/index.html",
+  "popular": false,
+  "new": false,
+  "thumb": {
+   "emoji": "🔫",
+   "bg": "linear-gradient(135deg,#4b5563,#111827)"
+  }
+ },
+ {
+  "id": "notsupermarioworld",
+  "title": "Not Super Mario World",
+  "category": "action",
+  "tags": [
+   "platformer",
+   "parody"
+  ],
+  "url": "games/notsupermarioworld/index.html",
+  "popular": false,
+  "new": false,
+  "thumb": {
+   "emoji": "🍄",
+   "bg": "linear-gradient(135deg,#dc2626,#15803d)"
+  }
  }
 ]
