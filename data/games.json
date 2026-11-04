@@ -1111,8 +1111,21 @@
   "thumb": {
    "emoji": "⚽",
    "bg": "linear-gradient(135deg,#6366f1,#312e81)"
-   }
   }
+ },
+ {
+ "id": "slippyslide",
+ "title": "Slippy Slide",
+ "category": "arcade",
+ "tags": ["滑り", "sliding"],
+ "url": "games/slippyslide/index.html",
+ "popular": false,
+ "new": true,
+ "thumb": {
+  "emoji": "🛝",
+  "bg": "linear-gradient(135deg,#38bdf8,#1d4ed8)"
+  }
+ }
 ]
 
 
