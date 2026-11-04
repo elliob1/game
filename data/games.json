@@ -1151,8 +1151,18 @@
     "emoji": "🌳",
     "bg": "linear-gradient(135deg,#65a30d,#166534)"
   }
+ },
+ {
+  "id": "forager",
+  "title": "Forager",
+  "category": "adventure",
+  "tags": ["survival"],
+  "url": "games/forager/index.html",
+  "popular": true,
+  "new": false,
+  "thumb": {
+    "emoji": "🌳",
+    "bg": "linear-gradient(135deg,#65a30d,#166534)"
+  }
  }
 ]
-
-
-
