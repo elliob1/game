@@ -2351,5 +2351,21 @@
    "emoji": "🍄",
    "bg": "linear-gradient(135deg,#dc2626,#15803d)"
   }
+ },
+ {
+  "id": "pixelspeedrun",
+  "title": "Pixel Speedrun",
+  "category": "action",
+  "tags": [
+   "platformer",
+   "speedrun"
+  ],
+  "url": "games/pixelspeedrun/index.html",
+  "popular": true,
+  "new": false,
+  "thumb": {
+   "emoji": "⏱️",
+   "bg": "linear-gradient(135deg,#f97316,#7c2d12)"
+  }
  }
 ]
