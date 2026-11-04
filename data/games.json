@@ -1125,6 +1125,19 @@
   "emoji": "🛝",
   "bg": "linear-gradient(135deg,#38bdf8,#1d4ed8)"
   }
+ },
+ {
+  "id": "taptapshot",
+  "title": "Tap Tap Shot",
+  "category": "sports",
+  "tags": ["basketball"],
+  "url": "games/taptapshot/index.html",
+  "popular": true,
+  "new": false,
+  "thumb": {
+   "emoji": "🏀",
+   "bg": "linear-gradient(135deg,#ea580c,#9a3412)"
+  }
  }
 ]
 
